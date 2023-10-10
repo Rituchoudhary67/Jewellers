@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding:0;
+}
+header {
+    display:flex;
+    justify-content: space-around;
+}
+header > ul {
+    border: 5px solid red;
+    list-style: none;
+    display: flex;
+}
+header > div {
+    padding: 20px;
+    background-color: aqua;
+}
+header ul > li {
+    display: flex;
+    /* background-color: blue; */
+    border:2px solid blue;
+    padding: 5px;
+}
