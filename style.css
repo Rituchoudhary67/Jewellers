@@ -17,19 +17,19 @@ header > ul {
 header > div {
     padding: 20px;
     /* background-color: aqua; */
-    font-size:xx-large;
+    font-size:2rem;
     color: goldenrod;
 }
 header ul > li {
-    font-size: large;
+    font-size: 1em;
     margin: 10px;
     display: flex;
-    color: lightgray;
+    color: gray;
     /* background-color: blue; */
     /* border:2px solid blue; */
     padding: 15px;
 }
 header ul > li:hover {
-    color: gray;
+    color: goldenrod;
     cursor: pointer;
 }
