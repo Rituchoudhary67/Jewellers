@@ -4,6 +4,7 @@
 }
 header {
     display:flex;
+    flex-wrap: wrap;
     justify-content: space-around;
     background-color: white;
     font-family: 'Croissant One', cursive;
@@ -25,6 +26,7 @@ header ul > li {
     margin: 10px;
     display: flex;
     color: gray;
+    flex-wrap: wrap;
     /* background-color: blue; */
     /* border:2px solid blue; */
     padding: 15px;
