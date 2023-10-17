@@ -99,6 +99,8 @@ header ul > li:hover {
 }
 .second-items {
     border:5px solid red;
+    height: 400px;
+    width: 300px;
 }
 .second-items img {
     height: 300px;
