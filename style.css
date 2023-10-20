@@ -71,11 +71,11 @@ header ul > li:hover, .second-sec h2:hover,.second-items p:hover {
     margin: 0 0 0 -4800px;
     position: relative;
     display: flex;
-    /* -webkit-animation-name: slide_animation;
+    -webkit-animation-name: slide_animation;
     -webkit-animation-duration: 33s;
     -webkit-animation-iteration-count:infinite;
     -webkit-animation-direction: alternate;
-    -webkit-animation-play-state: running; */
+    -webkit-animation-play-state: running;
 }
 .img-container {
     height: 500px;
