@@ -47,6 +47,7 @@ header ul > li:hover, .second-sec h2:hover,.second-items p:hover {
     height: 500px;
     width: 1200px;
     margin-left: 5%;
+    border-radius: 10px;
 }
 
 /* animation section started */
