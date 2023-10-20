@@ -32,7 +32,7 @@ header ul > li {
     /* border:2px solid blue; */
     padding: 15px;
 }
-header ul > li:hover, .second-sec h2:hover {
+header ul > li:hover, .second-sec h2:hover,.second-items p:hover {
     color: goldenrod;
     cursor: pointer;
     background-color: whitesmoke;
@@ -94,22 +94,34 @@ header ul > li:hover, .second-sec h2:hover {
 
 /* second section  */
 .second-container {
-    border:5px solid black;
+    /* border:5px solid black; */
     display: flex;
     flex-wrap: wrap;
     justify-content: space-around;
 }
 .second-items {
-    border:5px solid red;
+    /* border:5px solid red; */
     height: 400px;
     width: 300px;
+    background-color: rgba(224, 222, 222, 0.473);
+    border-radius: 10px;
 }
 .second-items img {
     height: 300px;
     width: 300px;
     object-fit: cover;
+    border-radius: 10px;
 }
 .second-sec h2 {
     font-family: 'Croissant One';
     padding: 20px;
+}
+.second-items p {
+    font-size: 1.5em;
+    top: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.bold {
+    font-weight: bolder;
+    font-family:'Courier New', Courier, monospace;
 }
