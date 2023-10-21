@@ -44,8 +44,8 @@ header ul > li:hover, .second-sec h2:hover,.second-items p:hover {
 /* img slider section start  */
 .slider-container {
     overflow: hidden;
-    height: 500px;
-    width: 1200px;
+    height: 50%;
+    width: 90%;
     margin-left: 5%;
     border-radius: 10px;
 }
