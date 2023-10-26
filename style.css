@@ -126,3 +126,7 @@ header ul > li:hover, .second-sec h2:hover,.second-items p:hover {
     font-weight: bolder;
     font-family:'Courier New', Courier, monospace;
 }
+/* next section containg img  */
+.img-sec {
+    border: 5px solid black;
+}
